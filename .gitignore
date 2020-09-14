@@ -108,5 +108,5 @@ pip-wheel-metadata/
 
 # Course Specific
 /grading
-#/assignments
+/assignments
 .idea/
