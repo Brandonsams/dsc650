@@ -6,7 +6,7 @@ subtitle: "Machine Learning Fundamentals"
 
 # Week 5
 
-[![hackmd-github-sync-badge](https://hackmd.io/BEx2SHHWQXGvtj-9WBlGTA/badge)](https://hackmd.io/BEx2SHHWQXGvtj-9WBlGTA)
+![hackmd-github-sync-badge](https://hackmd.io/BEx2SHHWQXGvtj-9WBlGTA/badge)](https://hackmd.io/BEx2SHHWQXGvtj-9WBlGTA)
 
 
 In this lesson you will create a batch machine-learning workflow using deep learning examples from *Deep Learning with Python*.  This workflow should be similar to real-world machine-learning workflows that you may encounter in professional or personal projects. 
@@ -30,15 +30,15 @@ In this assignment, you will be reproducing the models described in the examples
 
 ### Assignment 5.1
 
-Implement the movie review classifier found in section 3.4 of *Deep Learning with Python*. Example code and results can be found in `dsc650/assignments/assignment05/`.
+Implement the movie review classifier found in section 3.4 of *Deep Learning with Python*. 
 
 ### Assignment 5.2 
 
-Implement the news classifier found in section 3.5 of *Deep Learning with Python*. Example code and results can be found in `dsc650/assignments/assignment05/`.
+Implement the news classifier found in section 3.5 of *Deep Learning with Python*. 
 
 ### Assignment 5.3
 
-Implement the housing price regression model found in section 3.6 of *Deep Learning with Python*. Example code and results can be found in `dsc650/assignments/assignment05/`.
+Implement the housing price regression model found in section 3.6 of *Deep Learning with Python*. 
 
 ## Submission Instructions
 
